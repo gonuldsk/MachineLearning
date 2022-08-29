@@ -50,6 +50,5 @@ vb.)
 aşağıda linkte yer alan forma eklemeniz gerekmektedir.
 ● Proje takım halinde yapılacaktır. Oluşturulan takımlar 5-7 kişi arasında olmalıdır.
 ● Proje takımınız ile alakalı bilgileri bu form üzerinden iletebilirsiniz.
-● Form Linki: https://forms.gle/f9M1G62XxYt7JrYAA
-● Son Teslim tarihi: 29 Ağustos
+
 
